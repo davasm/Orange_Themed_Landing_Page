@@ -1,6 +1,6 @@
 # Landing Page Project
 
-Este é um projeto de Landing Page desenvolvido com **React** e **Tailwind CSS**. O objetivo é criar uma página de destino atraente e funcional, incluindo uma seção de captura de e-mail para promoções.
+Este é um projeto de Landing Page desenvolvido com **React** e **Tailwind CSS**. O objetivo é criar uma página de destino atraente e funcional, incluindo animações simples com Framer-Motion e uma seção de captura de e-mail para promoções.
 
 ## 🚀 Tecnologias Utilizadas
 
