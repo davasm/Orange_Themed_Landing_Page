@@ -10,7 +10,7 @@ const EmailCaptureForm = () => {
   const onSubmit = (data: FieldValues) => {
     console.log("Email Capturado:", data.email);
     console.log("Nome Capturado:", data.name);
-    alert("Obrigado por se inscrever!");
+    alert("Cheque o email para conferir a promoção!");
   };
 
   return (
