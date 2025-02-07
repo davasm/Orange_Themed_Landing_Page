@@ -22,7 +22,7 @@ const EmailCaptureForm = () => {
           type="text"
           {...register("name", { required: "O nome é obrigatório" })}
           placeholder="Digite seu nome"
-          className="border border-gray-300 rounded-md p-2 w-full"
+          className="border border-orange-300 rounded-md p-2 w-full"
         />
         {errors.name && typeof errors.name.message === "string" && (
           <p className="text-red-500 text-sm">{errors.name.message}</p>
@@ -39,7 +39,7 @@ const EmailCaptureForm = () => {
             }
           })}
           placeholder="Digite seu e-mail"
-          className="border border-gray-300 rounded-md p-2 w-full"
+          className="border border-orange-300 rounded-md p-2 w-full"
         />
         {errors.email && typeof errors.email.message === "string" && (
           <p className="text-red-500 text-sm">{errors.email.message}</p>
