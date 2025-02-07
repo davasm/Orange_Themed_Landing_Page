@@ -43,6 +43,9 @@ Agora você pode acessar o projeto em `http://localhost:5173/` no seu navegador.
 ![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20214601.png)
 ![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20222602.png)
 ![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20222622.png)
+![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20225324.png)
+![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20225345.png)
+![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20225431.png)
 
 ---
 
