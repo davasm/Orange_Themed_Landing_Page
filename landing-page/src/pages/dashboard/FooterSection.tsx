@@ -15,7 +15,7 @@ const EmailCaptureForm = () => {
 
   return (
     <div className="max-w-md mx-auto p-6 bg-white bg-opacity-70 shadow-lg rounded-lg mt-10 h-96 flex flex-col justify-center items-center">
-      <h2 className="text-xl text-black font-semibold mb-4">Cheque seu email para receber uma promoçao incrível</h2>
+      <h2 className="text-xl text-black font-semibold mb-8">Cheque seu email para receber uma promoçao incrível</h2>
       <form onSubmit={handleSubmit(onSubmit)} className="flex flex-col gap-4">
       <div>
         <input
@@ -55,7 +55,7 @@ const EmailCaptureForm = () => {
 
 const FooterSection = () => {
   return (
-    <div className="relative mt-20 border-b border-neutral-800 min-h-[800px]">
+    <div className="relative mt-20 mb-5 border-b border-neutral-800 min-h-[800px]">
       <div className="text-center">
         <span className="bg-neutral-900 text-orange-500 rounded-full h-6 text-sm font-medium px-2 py-1 uppercase">
           contato
@@ -67,7 +67,9 @@ const FooterSection = () => {
         </h2>
         <EmailCaptureForm />
       </div>
+      <p className="text-md p-4 text-neutral-500 text-center tracking-tighter max-w-xs mx-auto mt-20">Selular 2025. All rights reserved.</p>
     </div>
+    
   );
 };
 
