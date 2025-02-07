@@ -34,7 +34,7 @@ Siga os passos abaixo para instalar e executar o projeto localmente:
 
 Agora você pode acessar o projeto em `http://localhost:5173/` no seu navegador.
 
-## 🐟 Funcionamento
+## 🐟 Screenshots
 
 ![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20214457.png)
 ![Texto Alternativo](landing-page/src/assets/screenshots/Captura%20de%20tela%202025-02-06%20214523.png)
