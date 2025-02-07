@@ -10,6 +10,7 @@ Este é um projeto de Landing Page desenvolvido com **React** e **Tailwind CSS**
 - **Tailwind CSS** 
 - **Typescript**
 - **React Hook Form** 
+- **Framer-Motion**
 
 ## 📝 Instalação
 
